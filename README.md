@@ -2,7 +2,7 @@
 ## Introduction
 You can query database with an array of instructions
 ## Installation
-add to App/Library
+add to App/Library/Larocket/
 change the namespace as you will
 ## Progress
 18-3
