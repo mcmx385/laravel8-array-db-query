@@ -3,7 +3,6 @@
 You can query database with an array of instructions
 ## Installation
 add to App/Library/Larocket/
-change the namespace as you will
 ## Usage Example
 follow the examples below, you dont have to input all the parameters
 ## Read Example
